@@ -1,0 +1,8 @@
+## Interface: 110100
+## Title: GCast
+## Version: 202504210024
+## Notes: Adds a visual effect to player's successful spell casts, making the icons fly off screen with customizable settings, flight speed, fade-out duration, spell management, and dynamic flight paths.
+## Author: Godfrey
+## SavedVariables: GCastDB
+
+GCast.lua
